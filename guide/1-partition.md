@@ -8,10 +8,10 @@
 - A brain (most important of all)
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
-  
-- TWRP or any other recovery
 
 - [Parted](https://github.com/n00b69/woa-everything/releases/download/Files/parted)
+
+- TWRP or any other recovery
 
 ### Notes
 > [!WARNING]  
