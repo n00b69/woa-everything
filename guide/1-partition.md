@@ -9,7 +9,7 @@
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
   
-- [TWRP]() FILE NEEDED
+- TWRP or any other recovery
 
 - [Parted]() FILE NEEDED
 
