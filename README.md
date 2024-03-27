@@ -1,10 +1,18 @@
 > [!warning]
 > Guide is under development and is missing files. **Do not use.**
 
-<img align="right" src="https://github.com/n00b69/woa-enchilada/blob/main/enchilada.png" width="350" alt="Windows 11 running on enchilada">
+<img align="right" src="https://github.com/n00b69/woa-everything/blob/main/devices.png" width="350" alt="Windows 11 running on a cellphone">
 
-# Running Windows on the DEVICENAME
+# Running Windows on your cellphone
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/WinOnMIX2S)
+
+Asus ZenFone 5Z, AYN Odin handheld, LG G7, LG V35, LG V40, Meizu 16th, Meizu 16th Plus, Nokia 9 PureView, OPPO Find X, Smartisan R1, Vivo NEX Dual Display, Xiaomi Black Shark, Xiaomi Mi Mix 3, ZTE Axon 9 Pro, ZTE Nubia X
+
+## Important information
+This is a simplified guide based on the guide and files at [Renegade Project](https://renegade-project.tech/), while this guide aims to be as comprehensive as possible, crucial steps may not have been included. This is because all of these devices have not been maintained for years, and the Renegade Project guide does not provide any additional information (such as device-specific configurations needed for some things to work)
+
+This guide is aimed at the below devices, but can generally be used for any SDM845/SM8150 devices, though you will have to source UEFI images and drivers elsewhere;
+**Asus ZenFone 5Z** (draco), **AYN Odin handheld** (ayn-odin), **LG G7** (judyln), **LG V35** (judyp), **LG V40** (judypn), **Meizu 16th** (m1882), **Meizu 16th Plus** (m1892), **Nokia 9 PureView** (olympic), **OPPO Find X** (pafm00), **Smartisan R1** (trident), **Vivo NEX Dual Display** (pd1821), **Xiaomi Black Shark** (skr-a0), **Xiaomi Mi Mix 3** (perseus), **ZTE Axon 9 Pro** (akershus), **ZTE Nubia X** (nx616j)
 
 ## ⚠️ Warning
 We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~~workers~~ cowboys, dead pmics, dead ram, dead sim cards, dead display ics, dead cpus, any xiaomi shenanigans, exploding batteries, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
@@ -13,11 +21,10 @@ This project is in an early stage, all the files here have been contributed by o
 
 **IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR ITS PARTITION TABLE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
 
-
 ## Get started
 - [Project status](guide/status.md)
 
-- [Installation instructions](guide/1-partition.md) W.I.P DO NOT USE
+- [Installation instructions](guide/1-partition.md)
 
 - [Troubleshooting](guide/troubleshooting.md)
 
@@ -27,11 +34,9 @@ This project is in an early stage, all the files here have been contributed by o
 
 - [Additional materials](guide/materials.md)
 
-- [Update drivers](guide/update.md) W.I.P DO NOT USE
+- [Update drivers](guide/update.md)
 
-- [Reinstall instructions](guide/2-install.md) W.I.P DO NOT USE
-
-- [Uninstall instructions](guide/uninstall.md) W.I.P DO NOT USE
+- ~~[Uninstall instructions](guide/uninstall.md)~~ W.I.P DO NOT USE
 
 
 ## Contributors
