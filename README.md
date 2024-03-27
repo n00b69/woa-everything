@@ -32,7 +32,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 - [Update drivers](guide/update.md)
 
-- ~~[Uninstall instructions](guide/uninstall.md)~~ W.I.P DO NOT USE
+- [Uninstall instructions](guide/uninstall.md)
 
 
 ## Contributors
