@@ -1,6 +1,3 @@
-> [!warning]
-> Guide is under development and is missing files. **Do not use.**
-
 <img align="right" src="https://github.com/n00b69/woa-everything/blob/main/devices.png" width="350" alt="Windows 11 running on a cellphone">
 
 # Running Windows on your cellphone
