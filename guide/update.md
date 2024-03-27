@@ -7,13 +7,13 @@
 ### Prerequisites
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [UEFI image]() FILE NEEDED
+- [UEFI image](https://github.com/n00b69/woa-everything/releases/tag/UEFI)
   
-- [Drivers]() FILE NEEDED
+- [Drivers](https://github.com/n00b69/woa-everything/releases/tag/Drivers)
   
 - [Msc script]() FILE NEEDED
   
-- [TWRP]() FILE NEEDED (should already be installed)
+- TWRP or any other recovery
 
 #### Boot to TWRP
 > If COMPANY has replaced your recovery back to stock, flash it again in fastboot with:
