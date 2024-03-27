@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/n00b69/woa-everything/blob/main/devices.png" width="350" alt="Windows 11 running on a cellphone">
 
 # Running Windows on your cellphone
-[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/WinOnMIX2S)
+[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/joinchat/MNjTmBqHIokjweeN0SpoyA)
 
 ## Important information
 This is a simplified guide based on the guide and files at [Renegade Project](https://renegade-project.tech/), while this guide aims to be as comprehensive as possible, crucial steps may not have been included. This is because all of these devices have not been maintained for years, and the Renegade Project guide does not provide any additional information (such as device-specific configurations needed for some things to work)
