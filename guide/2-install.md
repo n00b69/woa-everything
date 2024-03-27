@@ -9,7 +9,7 @@
   
 - [Drivers](https://github.com/n00b69/woa-everything/releases/tag/Drivers)
   
-- [Msc script]() FILE NEEDED
+- [Msc script](https://github.com/n00b69/woa-everything/releases/download/Files/msc.sh)
   
 - TWRP or any other recovery
 
