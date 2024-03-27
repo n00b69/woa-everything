@@ -56,7 +56,7 @@ print
 ```
 
 #### Removing userdata
-> Replace **$** with the number of the **userdata** partition, which should be **21**
+> Replace **$** with the number of the **userdata** partition
 ```cmd
 rm $
 ```
@@ -86,7 +86,7 @@ mkpart win ntfs 32.66GB 123GB
 ```
 
 #### Making ESP bootable
-> Use `print` to see all partitions. Replace "$" with your ESP partition number, which should be 23
+> Use `print` to see all partitions. Replace "$" with your ESP partition number
 ```cmd
 set $ esp on
 ```
