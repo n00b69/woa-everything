@@ -11,7 +11,7 @@
   
 - TWRP or any other recovery
 
-- [Parted]() FILE NEEDED
+- [Parted](https://github.com/n00b69/woa-everything/releases/download/Files/parted)
 
 ### Notes
 > [!WARNING]  
