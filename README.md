@@ -6,12 +6,11 @@
 # Running Windows on your cellphone
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/WinOnMIX2S)
 
-Asus ZenFone 5Z, AYN Odin handheld, LG G7, LG V35, LG V40, Meizu 16th, Meizu 16th Plus, Nokia 9 PureView, OPPO Find X, Smartisan R1, Vivo NEX Dual Display, Xiaomi Black Shark, Xiaomi Mi Mix 3, ZTE Axon 9 Pro, ZTE Nubia X
-
 ## Important information
 This is a simplified guide based on the guide and files at [Renegade Project](https://renegade-project.tech/), while this guide aims to be as comprehensive as possible, crucial steps may not have been included. This is because all of these devices have not been maintained for years, and the Renegade Project guide does not provide any additional information (such as device-specific configurations needed for some things to work)
 
 This guide is aimed at the below devices, but can generally be used for any SDM845/SM8150 devices, though you will have to source UEFI images and drivers elsewhere;
+
 **Asus ZenFone 5Z** (draco), **AYN Odin handheld** (ayn-odin), **LG G7** (judyln), **LG V35** (judyp), **LG V40** (judypn), **Meizu 16th** (m1882), **Meizu 16th Plus** (m1892), **Nokia 9 PureView** (olympic), **OPPO Find X** (pafm00), **Smartisan R1** (trident), **Vivo NEX Dual Display** (pd1821), **Xiaomi Black Shark** (skr-a0), **Xiaomi Mi Mix 3** (perseus), **ZTE Axon 9 Pro** (akershus), **ZTE Nubia X** (nx616j)
 
 ## ⚠️ Warning
