@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/n00b69/woa-enchilada/blob/main/enchilada.png" width="350" alt="Windows 11 running on enchilada">
+<img align="right" src="https://github.com/n00b69/woa-everything/blob/main/devices.png" width="350" alt="Windows 11 running on a cellphone">
 
-# Running Windows on the DEVICENAME
+# Running Windows on your cellphone
 
 ## Root guide
 
@@ -9,7 +9,7 @@
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [TWRP]() FILE NEEDED
+- TWRP or any other recovery
 
 ##### Boot TWRP
 > If your recovery has been replaced back to stock, flash it again in fastboot with:
