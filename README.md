@@ -3,6 +3,9 @@
 # Running Windows on your cellphone
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/joinchat/MNjTmBqHIokjweeN0SpoyA)
 
+## Choose your language
+**English** | ~~[`Pусский`](/guide/Russian/README-ru.md)~~ | ~~[`Polski`](/guide/Polski/README-pl.md)~~
+
 ## Important information
 This is a simplified guide based on the guide and files at [Renegade Project](https://renegade-project.tech/), while this guide aims to be as comprehensive as possible, crucial steps may not have been included. This is because all of these devices have not been maintained for years, and the Renegade Project guide does not provide any additional information (such as device-specific configurations needed for some things to work)
 
@@ -58,6 +61,8 @@ This project is in an early stage, all the files here have been contributed by o
 [<img alt="RIllEX1"
 src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/142384494?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/RIllEX1)
 [<img alt="n00b69" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83274506?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/n00b69)
+[<img alt="TrustedFloppa" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/85476585?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/TrustedFloppa)
+[<img alt="Misha803" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/118528504?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Misha803)
 
 
 
