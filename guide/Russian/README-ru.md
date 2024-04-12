@@ -1,15 +1,15 @@
 <img align="right" src="https://github.com/n00b69/woa-everything/blob/main/devices.png" width="350" alt="Windows 11 running on a cellphone">
 
-# Запуск Winows на телефон 
+# Запуск Winows на телефоне 
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/joinchat/MNjTmBqHIokjweeN0SpoyA)
 
 ## Выберите ваш язык 
-[`English`](/README.md) | **Pусский** | ~~[`Polski`](/guide/Polski/README-pl.md)~~
+[`English`](/README.md) | **`Pусский`** | ~~[`Polski`](/guide/Polski/README-pl.md)~~
 
-## Important information
-This is a simplified guide based on the guide and files at [Renegade Project](https://renegade-project.tech/), while this guide aims to be as comprehensive as possible, crucial steps may not have been included. This is because all of these devices have not been maintained for years, and the Renegade Project guide does not provide any additional information (such as device-specific configurations needed for some things to work)
+## Важная информация 
+Это упрощенное руководство, основанное на руководстве и файлах, размещенных на сайте [Renegade Project](https://renegade-project.tech/). Несмотря на то, что данное руководство должно быть как можно более полным, в него, возможно, не включены важные шаги. Это связано с тем, что все эти устройства не обслуживались в течение многих лет, а руководство по проекту Renegade не содержит никакой дополнительной информации (например, о конфигурациях конкретных устройств, необходимых для работы некоторых функций).
 
-This guide is aimed at the below devices, but can generally be used for any SDM845/SM8150 devices, though you will have to source UEFI images and drivers elsewhere;
+Это руководство предназначено для перечисленных ниже устройств, но, как правило, может быть использовано для любых устройств SDM845/SM8150, хотя вам придется загрузить образы UEFI и драйверы из других источников;
 
 **Asus ZenFone 5Z** (draco), **AYN Odin handheld** (ayn-odin), **LG G7** (judyln), **LG V35** (judyp), **LG V40** (judypn), **Meizu 16th** (m1882), **Meizu 16th Plus** (m1892), **Nokia 9 PureView** (olympic), **OPPO Find X** (pafm00), **Smartisan R1** (trident), **Vivo NEX Dual Display** (pd1821), **Xiaomi Black Shark** (skr-a0), **Xiaomi Mi Mix 3** (perseus), **ZTE Axon 9 Pro** (akershus), **ZTE Nubia X** (nx616j)
 
@@ -63,22 +63,3 @@ This guide is aimed at the below devices, but can generally be used for any SDM8
 [<img alt="n00b69" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83274506?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/n00b69) 
 [<img alt="TrustedFloppa" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/85476585?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/TrustedFloppa)
 [<img alt="Misha803" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/118528504?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Misha803)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
