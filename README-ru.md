@@ -1,10 +1,17 @@
-<img align="right" src="https://github.com/n00b69/woa-dipper/blob/main/dipper.png" width="350" alt="Windows 11 running on dipper">
+<img align="right" src="https://github.com/n00b69/woa-everything/blob/main/devices.png" width="350" alt="Windows 11 running on a cellphone">
 
-# Запуск Winows на Xiaomi Mi 8
-[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woadipper)
+# Запуск Winows на телефон 
+[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/joinchat/MNjTmBqHIokjweeN0SpoyA)
 
 ## Выберите ваш язык 
 [`English`](/README.md) | **Pусский** | ~~[`Polski`](/guide/Polski/README-pl.md)~~
+
+## Important information
+This is a simplified guide based on the guide and files at [Renegade Project](https://renegade-project.tech/), while this guide aims to be as comprehensive as possible, crucial steps may not have been included. This is because all of these devices have not been maintained for years, and the Renegade Project guide does not provide any additional information (such as device-specific configurations needed for some things to work)
+
+This guide is aimed at the below devices, but can generally be used for any SDM845/SM8150 devices, though you will have to source UEFI images and drivers elsewhere;
+
+**Asus ZenFone 5Z** (draco), **AYN Odin handheld** (ayn-odin), **LG G7** (judyln), **LG V35** (judyp), **LG V40** (judypn), **Meizu 16th** (m1882), **Meizu 16th Plus** (m1892), **Nokia 9 PureView** (olympic), **OPPO Find X** (pafm00), **Smartisan R1** (trident), **Vivo NEX Dual Display** (pd1821), **Xiaomi Black Shark** (skr-a0), **Xiaomi Mi Mix 3** (perseus), **ZTE Axon 9 Pro** (akershus), **ZTE Nubia X** (nx616j)
 
 ## ⚠️ Предупреждение 
 Мы не несем ответственности за поврежденные устройства, отсутствующие разделы восстановления, неработающих ~сотрудников~ ковбоев xiaomi factoryline, неработающие pmic, неработающие sd-карты, неработающую оперативную память, неработающие sim-карты, неработающие микросхемы дисплея, неработающие процессоры, любые махинации Xiaomi/POCO, взрывающиеся батареи, мертвых кошек или собак, ядерные войны или вас увольняют из-за того, что вы забыли снова загрузиться в Android для подачи сигнала тревоги.
