@@ -4,7 +4,7 @@
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/joinchat/MNjTmBqHIokjweeN0SpoyA)
 
 ## Выберите ваш язык 
-[`English`](/README.md) | **`Pусский`** | ~~[`Polski`](/guide/Polski/README-pl.md)~~
+[`English`](/README.md) | **Pусский** | ~~[`Polski`](/guide/Polski/README-pl.md)~~
 
 ## Важная информация 
 Это упрощенное руководство, основанное на руководстве и файлах, размещенных на сайте [Renegade Project](https://renegade-project.tech/). Несмотря на то, что данное руководство должно быть как можно более полным, в него, возможно, не включены важные шаги. Это связано с тем, что все эти устройства не обслуживались в течение многих лет, а руководство по проекту Renegade не содержит никакой дополнительной информации (например, о конфигурациях конкретных устройств, необходимых для работы некоторых функций).
