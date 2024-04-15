@@ -23,10 +23,10 @@
 >
 > YOU CAN BREAK YOUR DEVICE WITH THE COMMANDS BELOW IF YOU DO THEM WRONG!!!
 
-#### Flash TWRP recovery
+#### Boot TWRP recovery
 > Open a CMD window inside the platform-tools folder, then (while your phone is in fastboot mode) run
 ```cmd
-fastboot flash recovery path\to\twrp.img reboot recovery
+fastboot boot path\to\twrp.img
 ```
 
 #### Backing up important files
@@ -72,17 +72,17 @@ mkpart userdata ext4 1611MB 32GB
 #### Creating ESP partition
 > Replace **32GB** with the end value of **userdata**
 >
-> Replace **32.1GB** with the value you used before, adding **0.1GB** to it
+> Replace **32.3GB** with the value you used before, adding **0.3GB** to it
 ```cmd
-mkpart esp fat32 32GB 32.1GB
+mkpart esp fat32 32GB 32.3GB
 ```
 
 #### Creating Windows partition
-> Replace **32.1GB** with the end value of **esp**
+> Replace **32.3GB** with the end value of **esp**
 >
 > Replace **123GB** with the end value of your disk, use `p free` to find it
 ```cmd
-mkpart win ntfs 32.1GB 123GB
+mkpart win ntfs 32.3GB 123GB
 ```
 
 #### Making ESP bootable
