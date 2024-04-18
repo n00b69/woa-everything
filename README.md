@@ -11,7 +11,7 @@ This is a simplified guide based on the guide and files at [Renegade Project](ht
 
 This guide is aimed at the below devices, but can generally be used for any SDM845/SM8150 devices, though you will have to source UEFI images and drivers elsewhere;
 
-**Asus ZenFone 5Z** (draco), **AYN Odin handheld** (ayn-odin), **LG G7** (judyln), **LG V35** (judyp), **LG V40** (judypn), **Meizu 16th** (m1882), **Meizu 16th Plus** (m1892), **Nokia 9 PureView** (olympic), **OPPO Find X** (pafm00), **Smartisan R1** (trident), **Vivo NEX Dual Display** (pd1821), **Xiaomi Black Shark** (skr-a0), **Xiaomi Mi Mix 3** (perseus), **ZTE Axon 9 Pro** (akershus), **ZTE Nubia X** (nx616j)
+**Asus ZenFone 5Z** (draco), **AYN Odin handheld** (ayn-odin), **LG G7** (judyln), **LG V35** (judyp), **LG V40** (judypn), **Meizu 16th** (m1882), **Meizu 16th Plus** (m1892), **Nokia 9 PureView** (olympic), **OPPO Find X** (pafm00), **Smartisan R1** (trident), **Vivo NEX Dual Display** (pd1821), **Xiaomi Black Shark** (skr-a0), **ZTE Axon 9 Pro** (akershus), **ZTE Nubia X** (nx616j)
 
 ## ⚠️ Warning
 We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~~workers~~ cowboys, dead pmics, dead ram, dead sim cards, dead display ics, dead cpus, any xiaomi shenanigans, exploding batteries, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
