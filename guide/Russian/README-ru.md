@@ -11,7 +11,7 @@
 
 Это руководство предназначено для перечисленных ниже устройств, но, как правило, может быть использовано для любых устройств SDM845/SM8150, хотя вам придется загрузить образы UEFI и драйверы из других источников;
 
-**Asus ZenFone 5Z** (draco), **AYN Odin handheld** (ayn-odin), **LG G7** (judyln), **LG V35** (judyp), **LG V40** (judypn), **Meizu 16th** (m1882), **Meizu 16th Plus** (m1892), **Nokia 9 PureView** (olympic), **OPPO Find X** (pafm00), **Smartisan R1** (trident), **Vivo NEX Dual Display** (pd1821), **Xiaomi Black Shark** (skr-a0), **ZTE Axon 9 Pro** (akershus), **ZTE Nubia X** (nx616j)
+**Asus ZenFone 5Z** (draco), **LG G7** (judyln), **LG V35** (judyp), **LG V40** (judypn), **Meizu 16th** (m1882), **Meizu 16th Plus** (m1892), **Nokia 9 PureView** (olympic), **OPPO Find X** (pafm00), **Smartisan R1** (trident), **Vivo NEX Dual Display** (pd1821), **Xiaomi Black Shark** (skr-a0), **ZTE Axon 9 Pro** (akershus), **ZTE Nubia X** (nx616j)
 
 ## ⚠️ Предупреждение 
 Мы не несем ответственности за поврежденные устройства, отсутствующие разделы восстановления, неработающих ~сотрудников~ ковбоев xiaomi factoryline, неработающие pmic, неработающие sd-карты, неработающую оперативную память, неработающие sim-карты, неработающие микросхемы дисплея, неработающие процессоры, любые махинации Xiaomi/POCO, взрывающиеся батареи, мертвых кошек или собак, ядерные войны или вас увольняют из-за того, что вы забыли снова загрузиться в Android для подачи сигнала тревоги.
