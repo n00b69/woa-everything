@@ -92,6 +92,9 @@ exit
 > [!note]
 > For Snapdragon 835 (MSM8998) SoC **only**! Use Windows 11 22623 or older. Newer versions will not work.
 
+> [!Warning]
+> DO NOT USE 24H2!!!
+
 > Replace `path\to\install.esd` with the actual path of install.esd (it may also be named install.wim)
 
 ```cmd
